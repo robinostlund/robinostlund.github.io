@@ -27,10 +27,14 @@ permalink: /:title/
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: robostlund
 github_username:  robinostlund
-mode: dark
 
 # Build settings
 theme: minima
+
+# Minima settings
+minima:
+  skin: dark
+
 #remote_theme: piharpi/jekyll-klise
 plugins:
   - jekyll-feed
