@@ -33,6 +33,9 @@ theme: minima
 # Minima settings
 minima:
   skin: dark
+  social_links:
+    twitter: robostlund
+    github: robinostlund
 
 #remote_theme: piharpi/jekyll-klise
 plugins:
