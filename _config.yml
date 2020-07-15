@@ -29,7 +29,8 @@ github_username:  robinostlund
 mode: dark
 
 # Build settings
-theme: klise
+#theme: minima
+remote_theme: piharpi/jekyll-klise
 plugins:
   - jekyll-feed
 
