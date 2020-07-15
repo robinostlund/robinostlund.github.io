@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
+Hi, my name is Robin Östlund and i am a very social guy with a deep interest in IT. With high focus on automate everything that is possbile to automate. Why redo things that you can do once?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Experiance
+- 2009-2010 - Worked as 1stline technician at Ipeer AB, supporting cloud services.
+- 2010-2014 - Worked as 3rdline technician at Ipeer AB, managing network, linux servers and had main focus in developing cloud services
+- 2014-2016 - Worked as 3rdline technician at Cygate AB, managing network, linux servers and had main focus in developing cloud services
+- 2016-2017 - Worked as a tech team leader at Cygate AB.
+- 2017 - Present - Working as a CTO [Opsio](https://www.opsio.se)
