@@ -28,7 +28,8 @@ twitter_username: robostlund
 github_username:  robinostlund
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 # Minima settings
 minima:
