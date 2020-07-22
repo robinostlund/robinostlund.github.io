@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<table class=".is-borderless">
+<table>
   <tr>
     <td>
         <img src="/assets/img/me.jpg">
@@ -23,6 +23,25 @@ layout: default
     </td>
   </tr>
 </table>
+
+<h1>Github Repositories</h1>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>🌟</th>
+    </tr>
+    {% assign respositories = site.github.public_repositories | where:'fork', false | sort: 'stargazers_count' | reverse %}
+    {% for repository in respositories %}
+    <tr>
+        <td><a href="{{ repository.html_url }}">{{ repository.name }}</a></td>
+        <td>{{ repository.description }}</td>
+        <td>{{ repository.stargazers_count }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
 
 <!-- <h1> Last Blog Post</h1>
 <h2>{{ site.posts.last.title }}</h2>
