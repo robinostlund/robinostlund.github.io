@@ -20,8 +20,8 @@ Hi, my name is Robin Östlund and i am a very social guy with a deep interest in
 - Developed Veeam Cloud Connect cloud service at Cygate AB
 
 ## Certifications
-- AWS Certified Developer - Associate
-- AWS Certified Devops Engineer - Professional
+- AWS Certified Developer - Associate ![Developer Associate](static_files/img/badge-aws-developer-associate.png =250x250)
+- AWS Certified Devops Engineer - Professional ![DevOps Engineer Professional](static_files/img/badge-aws-devops-engineer-professional.png =250x250)
 
 ## Knowledge
 
