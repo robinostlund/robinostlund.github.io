@@ -7,6 +7,11 @@ permalink: /about/
 # About me
 Hi, my name is Robin Östlund and i am a very social guy with a deep interest in IT. With high focus on automate everything that is possbile to automate. Why redo things that you can do once?
 
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
 ## Experiance
 - 2009-2010 - Worked as 1stline technician at Ipeer AB, supporting cloud services.
 - 2010-2014 - Worked as 3rdline technician at Ipeer AB, managing network, linux servers and had main focus in developing cloud services
