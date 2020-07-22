@@ -9,7 +9,7 @@ permalink: /about/
 ## Experiance
 
 | Year | Company | Role | Type of work |
-| :------------- | :-------------- | :-------------- |
+| :------------- | :-------------- | :-------------- | :-------------- |
 | 2009-2010 | [Ipeer AB](https://www.ipeer.se)| 1stline technician | Supporting Cloud Services |
 | 2010-2014 | [Ipeer AB](https://www.ipeer.se) | 3rdline technician | Managing network, linux servers and had main focus in developing cloud services |
 | 2014-2016 | [Cygate AB](https://www.cygate.se) | 3rdline technician | Managing network, linux servers and had main focus in developing cloud services |
@@ -18,9 +18,12 @@ permalink: /about/
 
 
 ## Highlights
-- Developed ECS cloud service at Ipeer AB
-- Developed Hosted VMware cloud service at Ipeer AB
-- Developed Veeam Cloud Connect cloud service at Cygate AB
+
+| Company | Description |
+| :------------- | :-------------- |
+| [Ipeer AB](https://www.ipeer.se)| Developed ECS cloud service |
+| [Ipeer AB](https://www.ipeer.se) | Developed Hosted VMware cloud service |
+| [Cygate AB](https://www.cygate.se) | Developed Veeam Cloud Connect cloud service |
 
 ## Certifications
 

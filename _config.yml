@@ -40,6 +40,9 @@ minima:
     github: robinostlund
     facebook: robin.ostlund.965
 
+sass:
+    style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
