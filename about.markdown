@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About me
-
 | <img src="/assets/img/me.jpg"> | Hi, my name is Robin Östlund and i am a very social guy with a deep interest in IT. With high focus on automate everything that is possbile to automate. Why redo things that you can do once? |
 
 ## Experiance
