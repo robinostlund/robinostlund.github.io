@@ -27,10 +27,10 @@ permalink: /about/
 
 ## Certifications
 
-| Certification | Badge |
-| :------------- | :--------------: |
-| AWS Certified Developer - Associate | <img src="/assets/img/badge-aws-developer-associate.png" width="100px"> |
-| AWS Certified Devops Engineer - Professional | <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="100px"> |
+| Badge | Name |
+| :-------------: | :-------------- |
+| <img src="/assets/img/badge-aws-developer-associate.png" width="120px"> | AWS Certified Developer - Associate |
+| <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="120px"> | AWS Certified Devops Engineer - Professional |
 
 ## Knowledge
 
