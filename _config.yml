@@ -41,6 +41,7 @@ minima:
     facebook: robin.ostlund.965
 
 sass:
+    sass_dir: _sass
     style: compressed
 
 plugins:
