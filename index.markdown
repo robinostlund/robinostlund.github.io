@@ -19,6 +19,7 @@ layout: default
         <center>
             <img src="/assets/img/badge-aws-developer-associate.png" width="150px">
             <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="150px">
+            <img src="/assets/img/badge-aws-solution-architect-associate.png" width="150px">
             <img src="/assets/img/badge-aws-solution-architect-professional.png" width="150px">
         </center>
     </td>
