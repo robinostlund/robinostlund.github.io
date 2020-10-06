@@ -29,6 +29,7 @@ permalink: /about/
 
 | Badge | Name |
 | :-------------: | :-------------- |
+| <img src="/assets/img/badge-aws-sysops-admin-associate.png" width="120px"> | AWS Certified SysOps Administrator - Associate |
 | <img src="/assets/img/badge-aws-developer-associate.png" width="120px"> | AWS Certified Developer - Associate |
 | <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="120px"> | AWS Certified Devops Engineer - Professional |
 | <img src="/assets/img/badge-aws-solution-architect-associate.png" width="120px"> | AWS Certified Solutions Architect - Associate |

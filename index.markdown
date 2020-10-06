@@ -17,10 +17,11 @@ layout: default
   <tr>
     <td colspan="2">
         <center>
-            <img src="/assets/img/badge-aws-developer-associate.png" width="150px">
-            <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="150px">
-            <img src="/assets/img/badge-aws-solution-architect-associate.png" width="150px">
-            <img src="/assets/img/badge-aws-solution-architect-professional.png" width="150px">
+            <img src="/assets/img/badge-aws-sysops-admin-associate.png" width="120px">
+            <img src="/assets/img/badge-aws-developer-associate.png" width="120px">
+            <img src="/assets/img/badge-aws-devops-engineer-professional.png" width="120px">
+            <img src="/assets/img/badge-aws-solution-architect-associate.png" width="120px">
+            <img src="/assets/img/badge-aws-solution-architect-professional.png" width="120px">
         </center>
     </td>
   </tr>
