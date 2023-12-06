@@ -30,8 +30,8 @@ google_analytics: UA-93911028-1
 
 # Build settings
 #theme: jekyll-theme-minimal
-remote_theme: jekyll/minima
-#theme: minima
+#remote_theme: jekyll/minima
+theme: minima
 
 # Minima settings
 minima:
