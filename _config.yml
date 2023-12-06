@@ -35,7 +35,7 @@ theme: minima
 
 # Minima settings
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/robostlund" }
     - { platform: github, user_url: "https://github.com/robinostlund" }
