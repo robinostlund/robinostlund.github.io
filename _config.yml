@@ -29,8 +29,9 @@ url: "https://robinostlund.name" # the base hostname & protocol for your site, e
 google_analytics: UA-93911028-1
 
 # Build settings
-theme: jekyll-theme-minimal
-#remote_theme: jekyll/minima
+#theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+theme: minima
 
 # Minima settings
 #minima:
