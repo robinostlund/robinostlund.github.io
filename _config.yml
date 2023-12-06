@@ -41,8 +41,8 @@ minima:
     - { platform: github, user_url: "https://github.com/robinostlund" }
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 plugins:
   - jekyll-feed
