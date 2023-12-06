@@ -35,10 +35,10 @@ remote_theme: jekyll/minima
 # Minima settings
 minima:
   skin: dark
-  social_links:
-    twitter: robostlund
-    github: robinostlund
-    facebook: robin.ostlund.965
+  # social_links:
+  #   twitter: robostlund
+  #   github: robinostlund
+  #   facebook: robin.ostlund.965
 
 sass:
     sass_dir: _sass
