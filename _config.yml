@@ -34,12 +34,11 @@ remote_theme: jekyll/minima
 theme: minima
 
 # Minima settings
-#minima:
-#  skin: dark
-  # social_links:
-  #   twitter: robostlund
-  #   github: robinostlund
-  #   facebook: robin.ostlund.965
+minima:
+  skin: dark
+  social_links:
+    - { platform: twitter, user_url: "https://twitter.com/robostlund"}
+    - { platform: github, user_url: "https://github.com/robinostlund"}
 
 sass:
     sass_dir: _sass
